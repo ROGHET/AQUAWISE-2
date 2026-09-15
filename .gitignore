@@ -1,0 +1,4 @@
+.claude
+.claude.*
+rewrite_history.py
+temp_msg.txt
